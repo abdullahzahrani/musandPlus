@@ -110,7 +110,7 @@ up with a 500 error.
 ## Credentials
 - #### Admin
 - email: admin@admin.com
-- password : password
+- password : admin123123
 - #### user
 - email: user@user.com
-- password: password 
+- password: user123123 
