@@ -114,6 +114,12 @@ up with a 500 error.
 - #### Admin
 - email: admin@admin.com
 - password : admin123123
-- #### user
-- email: user@user.com
-- password: user123123 
+- #### student
+- email: abdullah@abdullah.com
+- password: 123123 
+
+##administrator
+
+https://musandplus.com/x/
+- email: admin@admin.com
+- password : admin123123
