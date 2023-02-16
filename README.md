@@ -118,7 +118,7 @@ up with a 500 error.
 - email: abdullah@abdullah.com
 - password: 123123 
 
-##administrator
+## administrator
 https://musandplus.com/x/
 - email: admin@admin.com
 - password : admin123123
