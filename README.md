@@ -1,6 +1,21 @@
 ## Demo Website
 https://musandplus.com/
 
+## Credentials
+- #### Admin
+- email: admin@admin.com
+- password : admin123123
+- #### student
+- email: abdullah@abdullah.com
+- password: 123123 
+
+## administrator
+https://musandplus.com/x/
+- email: admin@admin.com
+- password: admin123123
+
+
+
 Musand Plus Shared Hosting Deploy Process
 
 
@@ -110,15 +125,4 @@ up with a 500 error.
 - Best of luck 
 
 
-## Credentials
-- #### Admin
-- email: admin@admin.com
-- password : admin123123
-- #### student
-- email: abdullah@abdullah.com
-- password: 123123 
 
-## administrator
-https://musandplus.com/x/
-- email: admin@admin.com
-- password: admin123123
